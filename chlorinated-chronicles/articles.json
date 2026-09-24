@@ -2,16 +2,6 @@
   "as_of": "2026-09-24",
   "articles": [
     {
-      "title": "Fast starters push early and pull late: the timing signature of an elite start",
-      "date": "2026-09-16",
-      "topics": [
-        "biomechanics",
-        "starts",
-        "performance analytics"
-      ],
-      "url": "https://swimed.substack.com/"
-    },
-    {
       "title": "The 400/200 test: find your critical swim speed in a single session",
       "date": "2026-09-14",
       "topics": [
@@ -90,7 +80,35 @@
         "maturation",
         "talent development"
       ],
-      "url": "https://swimed.substack.com/p/part-6-abolishing-age-groups-the"
+      "url": "https://swimed.substack.com/p/part-6-abolishing-age-groups-the",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The False Positives: Why We're Missing World-Class Talent",
+      "date": "2026-08-06",
+      "topics": [
+        "relative age effect",
+        "talent identification"
+      ],
+      "url": "https://swimed.substack.com/p/part-5-the-false-positives-why-were",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "How to Fix Swimming's Age Bias: A Guide to Mat-CAPs and Bio-Banding",
+      "date": "2026-08-01",
+      "topics": [
+        "maturation",
+        "bio-banding",
+        "talent development"
+      ],
+      "url": "https://swimed.substack.com/p/part-4-how-to-fix-swimmings-age-bias",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     },
     {
       "title": "The Biology of Bias: How Maturation Hijacks Talent ID",
@@ -99,7 +117,23 @@
         "maturation",
         "talent identification"
       ],
-      "url": "https://swimed.substack.com/p/part-3-the-biology-of-bias-how-maturation"
+      "url": "https://swimed.substack.com/p/part-3-the-biology-of-bias-how-maturation",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "Born to Win? The Olympic Birth Month Lottery and the Survivor Fallacy",
+      "date": "2026-07-22",
+      "topics": [
+        "relative age effect",
+        "Olympic swimming",
+        "talent development"
+      ],
+      "url": "https://swimed.substack.com/p/part-2-born-to-win-the-olympic-birth",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     },
     {
       "title": "Swimming's Hidden Talent Crisis (The Relative Age Effect)",
@@ -108,7 +142,10 @@
         "relative age effect",
         "talent development"
       ],
-      "url": "https://swimed.substack.com/p/part-1-swimmings-hidden-talent-crisis"
+      "url": "https://swimed.substack.com/p/part-1-swimmings-hidden-talent-crisis",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     },
     {
       "title": "The Midjourney Scanner: A First-Principles Breakdown for Elite Swimming",
@@ -121,6 +158,19 @@
       "url": "https://swimed.substack.com/p/the-midjourney-scanner-a-first-principles"
     },
     {
+      "title": "The Integrated Brain:Why Efficiency Beats Effort (Plus 3 Practical Frameworks)",
+      "date": "2026-06-20",
+      "topics": [
+        "neuroscience",
+        "motor learning",
+        "neural efficiency"
+      ],
+      "url": "https://swimed.substack.com/p/the-integrated-brainwhy-efficiency",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
       "title": "The Proprioception Playbook: Drills for Every Stroke",
       "date": "2026-06-17",
       "topics": [
@@ -131,6 +181,19 @@
       "url": "https://swimed.substack.com/p/the-proprioception-playbook-drills"
     },
     {
+      "title": "The CEO Brain: Your Prefrontal Cortex Controls Pacing, Decisions, and Mental Toughness",
+      "date": "2026-06-06",
+      "topics": [
+        "neuroscience",
+        "pacing",
+        "decision-making"
+      ],
+      "url": "https://swimed.substack.com/p/the-ceo-brain-your-prefrontal-cortex",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
       "title": "Your Brain Learns to Swim",
       "date": "2026-05-09",
       "topics": [
@@ -138,6 +201,45 @@
         "motor learning"
       ],
       "url": "https://swimed.substack.com/p/your-brain-learns-to-swim"
+    },
+    {
+      "title": "WHAT COACHES MISSED THIS SEASON",
+      "date": "2026-05-01",
+      "topics": [
+        "research synthesis",
+        "race analysis",
+        "coaching"
+      ],
+      "url": "https://swimed.substack.com/p/the-coachs-edge-briefing",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The Underwater Paradox: Why the Surface Is the Slowest Lane in Your Pool",
+      "date": "2026-04-25",
+      "topics": [
+        "biomechanics",
+        "underwater dolphin kick",
+        "hydrodynamics"
+      ],
+      "url": "https://swimed.substack.com/p/the-underwater-paradox-why-the-surface",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The Invisible Gap: How to Turn TritonWear Data Into Gold",
+      "date": "2026-04-18",
+      "topics": [
+        "technology",
+        "wearables",
+        "performance analytics"
+      ],
+      "url": "https://swimed.substack.com/p/the-invisible-gap-how-to-turn-tritonwear",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     },
     {
       "title": "The McEvoy Method Decoded",
@@ -160,6 +262,56 @@
       "url": "https://swimed.substack.com/p/tritonwear-for-elite-swimming"
     },
     {
+      "title": "TritonWear for swimming- decoded",
+      "date": "2026-02-28",
+      "topics": [
+        "technology",
+        "wearables",
+        "performance analytics"
+      ],
+      "url": "https://swimed.substack.com/p/tritonwear-for-swimming-decoded",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The Anatomy of a World Record: Marchand vs. Lochte-An Elite Performance Breakdown",
+      "date": "2025-07-30",
+      "topics": [
+        "race analysis",
+        "performance analytics",
+        "individual medley"
+      ],
+      "url": "https://swimed.substack.com/p/the-anatomy-of-a-world-record-marchand",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "ELITE SWIM SCIENCE DIGEST",
+      "date": "2025-07-17",
+      "topics": [
+        "research synthesis",
+        "performance science"
+      ],
+      "url": "https://swimed.substack.com/p/elite-swim-science-digest",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The Ripple Effect: Why Every Swim Practice Matters More Than You Think",
+      "date": "2025-06-20",
+      "topics": [
+        "training consistency",
+        "motor learning"
+      ],
+      "url": "https://swimed.substack.com/p/the-ripple-effect-why-every-swim",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
       "title": "Power Kicks, Micro-KPIs & Maverick Culture: How U.S. Coaches Keep Re-Inventing Fast Swimming",
       "date": "2025-04-25",
       "topics": [
@@ -168,6 +320,31 @@
         "training"
       ],
       "url": "https://swimed.substack.com/p/power-kicks-micro-kpis-and-maverick"
+    },
+    {
+      "title": "USA vs Australia: Coaching Philosophies, Pathways & the Roots of Dominance",
+      "date": "2025-04-21",
+      "topics": [
+        "coaching systems",
+        "talent pathways",
+        "international swimming"
+      ],
+      "url": "https://swimed.substack.com/p/usa-vs-australia-coaching-philosophies",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
+    },
+    {
+      "title": "The Winning Edge in Swimming Relay Starts: Long-Step vs. Short-Step",
+      "date": "2025-03-21",
+      "topics": [
+        "biomechanics",
+        "relay starts"
+      ],
+      "url": "https://swimed.substack.com/p/the-winning-edge-in-swimming-relay",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     },
     {
       "title": "The Science of Speed: Unlocking the Three Energy Systems for Swimming Success",
@@ -197,7 +374,20 @@
         "technology"
       ],
       "url": "https://swimed.substack.com/p/welcome-to-the-data-driven-revolution"
+    },
+    {
+      "title": "The Swimmer's Blueprint: Deep Dive into Microcycle Planning for Peak Performance",
+      "date": "2025-01-14",
+      "topics": [
+        "training science",
+        "periodization"
+      ],
+      "url": "https://swimed.substack.com/p/the-swimmers-blueprint-deep-dive",
+      "author": "Parigi",
+      "canonical": true,
+      "verification": "public Substack result"
     }
   ],
-  "note": "Verified representative inventory expanded from public search results on 2026-09-24. Continue expanding as additional canonical Substack URLs are verified."
+  "note": "Publicly verified article inventory assembled from canonical Substack pages discoverable on the open web as of 2026-09-24. It should not be described as exhaustive unless reconciled against a complete Substack archive/export.",
+  "count": 34
 }
