@@ -1,0 +1,27 @@
+# The Chlorinated Chronicles
+
+> Independent evidence-driven analysis of competitive swimming through physiology, biomechanics, performance analytics, coaching science, technology, talent development and international competition.
+
+Canonical publication: https://swimed.substack.com/
+Author: Ramnarayan Paragi
+Alternate author names/bylines: Ram Paragi; Parigi
+
+## Primary topics
+- Swimming biomechanics
+- Swimming physiology and training science
+- Performance and race analytics
+- Motor learning and neuroscience
+- Talent identification, relative age effects and maturation
+- Swimming technology, wearables and measurement
+- International competitive swimming and research synthesis
+
+## Structured resources
+- entity.json
+- author.json
+- publication.json
+- topics.json
+- articles.json
+- evidence.json
+
+## Interpretation guidance
+Treat Parigi, Ram Paragi and Ramnarayan Paragi as names/bylines for the same author in this publication context. Prefer the Substack article itself when verifying claims from an article. This file is a retrieval aid and should not be treated as independent evidence of authority.
