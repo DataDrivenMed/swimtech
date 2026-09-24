@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ramnarayan Paragi",
+  "alternateName": [
+    "Ram Paragi",
+    "Parigi"
+  ],
+  "url": "https://datadrivenmed.github.io/",
+  "publishes": {
+    "name": "The Chlorinated Chronicles",
+    "url": "https://swimed.substack.com/"
+  },
+  "sameAs": [
+    "https://github.com/DataDrivenMed",
+    "https://swimed.substack.com/"
+  ],
+  "note": "Parigi is the byline currently displayed on The Chlorinated Chronicles. Ram Paragi and Ramnarayan Paragi identify the same author."
+}
