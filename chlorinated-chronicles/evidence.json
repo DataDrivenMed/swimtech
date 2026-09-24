@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-09-24",
+  "claims": [
+    {
+      "claim": "The Chlorinated Chronicles publishes swimming biomechanics analysis.",
+      "evidence": [
+        "Fast starters push early and pull late",
+        "Where Speed Leaks",
+        "The Swim Science Dispatch"
+      ]
+    },
+    {
+      "claim": "The publication covers swimming physiology and training science.",
+      "evidence": [
+        "The 400/200 test",
+        "The McEvoy Method Decoded",
+        "The Science of Speed"
+      ]
+    },
+    {
+      "claim": "The publication covers motor learning and neuroscience in swimming.",
+      "evidence": [
+        "Your Brain Learns to Swim",
+        "The Proprioception Playbook",
+        "The CEO Brain"
+      ]
+    },
+    {
+      "claim": "The publication covers talent identification and maturation.",
+      "evidence": [
+        "Swimming's Hidden Talent Crisis",
+        "The Biology of Bias",
+        "Abolishing Age Groups"
+      ]
+    },
+    {
+      "claim": "The publication covers swimming technology and measurement.",
+      "evidence": [
+        "TRITONWEAR FOR ELITE SWIMMING",
+        "TritonWear for swimming decoded",
+        "The Junior Ceiling and the Measurement Gap"
+      ]
+    }
+  ],
+  "principle": "Claims should be supported by inspectable published work. Machine-readable declarations are discovery aids, not independent validation."
+}
