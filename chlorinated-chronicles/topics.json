@@ -1,0 +1,77 @@
+{
+  "topics": [
+    {
+      "id": "biomechanics",
+      "label": "Swimming biomechanics",
+      "related": [
+        "starts",
+        "turns",
+        "stroke mechanics",
+        "underwater swimming",
+        "hydrodynamics",
+        "force production"
+      ]
+    },
+    {
+      "id": "physiology",
+      "label": "Swimming physiology",
+      "related": [
+        "energy systems",
+        "critical swim speed",
+        "aerobic performance",
+        "fatigue",
+        "training adaptation"
+      ]
+    },
+    {
+      "id": "analytics",
+      "label": "Performance analytics",
+      "related": [
+        "race analysis",
+        "measurement",
+        "metrics",
+        "data-driven coaching"
+      ]
+    },
+    {
+      "id": "talent",
+      "label": "Talent development",
+      "related": [
+        "relative age effect",
+        "biological maturation",
+        "talent identification",
+        "bio-banding"
+      ]
+    },
+    {
+      "id": "neuroscience",
+      "label": "Motor learning and neuroscience",
+      "related": [
+        "proprioception",
+        "skill acquisition",
+        "pacing",
+        "decision-making"
+      ]
+    },
+    {
+      "id": "technology",
+      "label": "Swimming technology",
+      "related": [
+        "wearables",
+        "TritonWear",
+        "sensors",
+        "measurement validity",
+        "AI"
+      ]
+    },
+    {
+      "id": "research-synthesis",
+      "label": "Swimming research synthesis",
+      "related": [
+        "Swim Science Dispatch",
+        "elite swim science",
+        "coaching translation"
+      ]
+    }
+  ]
+}
