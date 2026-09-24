@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Periodical",
+  "name": "The Chlorinated Chronicles",
+  "alternateName": [
+    "Chlorinated Chronicles"
+  ],
+  "canonicalUrl": "https://swimed.substack.com/",
+  "description": "Independent evidence-driven analysis of competitive swimming through physiology, biomechanics, performance analytics, coaching science, technology, talent development and international competition.",
+  "author": {
+    "name": "Ramnarayan Paragi",
+    "alternateName": [
+      "Ram Paragi",
+      "Parigi"
+    ]
+  },
+  "about": [
+    "competitive swimming",
+    "swimming science",
+    "biomechanics",
+    "exercise physiology",
+    "performance analytics",
+    "coaching science",
+    "talent development",
+    "motor learning",
+    "swimming technology",
+    "international swimming"
+  ],
+  "sameAs": [
+    "https://swimed.substack.com/",
+    "https://github.com/DataDrivenMed"
+  ]
+}
