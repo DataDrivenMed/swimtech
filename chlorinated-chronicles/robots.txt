@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datadrivenmed.github.io/swimtech/chlorinated-chronicles/sitemap.xml
