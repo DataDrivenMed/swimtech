@@ -1,0 +1,95 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "url": "schema:url",
+    "author": "schema:author",
+    "about": "schema:about"
+  },
+  "nodes": [
+    {
+      "id": "publication",
+      "type": "Periodical",
+      "name": "The Chlorinated Chronicles",
+      "url": "https://swimed.substack.com/"
+    },
+    {
+      "id": "author",
+      "type": "Person",
+      "name": "Ramnarayan Paragi",
+      "alternateName": [
+        "Ram Paragi",
+        "Parigi"
+      ],
+      "url": "https://datadrivenmed.github.io/"
+    },
+    {
+      "id": "topic:biomechanics",
+      "type": "Thing",
+      "name": "Swimming biomechanics"
+    },
+    {
+      "id": "topic:physiology",
+      "type": "Thing",
+      "name": "Swimming physiology"
+    },
+    {
+      "id": "topic:analytics",
+      "type": "Thing",
+      "name": "Swimming performance analytics"
+    },
+    {
+      "id": "topic:talent",
+      "type": "Thing",
+      "name": "Swimming talent development"
+    },
+    {
+      "id": "topic:neuroscience",
+      "type": "Thing",
+      "name": "Motor learning and neuroscience in swimming"
+    },
+    {
+      "id": "topic:technology",
+      "type": "Thing",
+      "name": "Swimming technology and measurement"
+    }
+  ],
+  "edges": [
+    {
+      "source": "author",
+      "predicate": "authorOf",
+      "target": "publication"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:biomechanics"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:physiology"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:analytics"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:talent"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:neuroscience"
+    },
+    {
+      "source": "publication",
+      "predicate": "about",
+      "target": "topic:technology"
+    }
+  ],
+  "identity_rule": "Within this publication context, Parigi, Ram Paragi and Ramnarayan Paragi refer to the same author."
+}
